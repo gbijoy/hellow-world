@@ -1,2 +1,3 @@
 # hellow-world
-Bijoy's hellpw world repository
+Bijoy's hellow world repository
+I like dotnet and nodejs
